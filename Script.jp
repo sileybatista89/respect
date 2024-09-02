@@ -1,0 +1,4 @@
+// JavaScript para funcionalidades adicionais, como animações e interatividade
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Site RespectCoin carregado com sucesso!');
+});
